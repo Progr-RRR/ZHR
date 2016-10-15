@@ -1,4 +1,4 @@
-# Zurich R Courses (ZHR) -- R Programming   ![UZH ETH R Courses(UniETH_ZHR_Courses.png)
+# Zurich R Courses (ZHR) -- R Programming  
 ## Dr. Martin Mächler (Seminar für Statistik, ETH Zurich // R Core Team)
 
 ## Website for __collaborative__ projects.
@@ -14,3 +14,5 @@ extended [Course programe](https://github.com/mmaechler/ProgRRR/tree/master/ZHR/
 
 - For the Webversion of our main _"lecture notes"_, Hadley Wickham's *Advanced R* book,
   use http://adv-r.had.co.nz/   (an offline version of which is on the USB stick)
+
+ ![UZH ETH R Courses(UniETH_ZHR_Courses.png)
