@@ -1,4 +1,4 @@
-# Zurich R Courses (ZHR) -- R Programming
+# Zurich R Courses (ZHR) -- R Programming   ![UZH ETH R Courses(UniETH_ZHR_Courses.png)
 ## Dr. Martin Mächler (Seminar für Statistik, ETH Zurich // R Core Team)
 
 ## Website for __collaborative__ projects.
